@@ -1,0 +1,216 @@
+.container{
+	width: 1000px;
+	margin: 0px auto; 
+}
+.con{
+	margin: 0px auto;
+}
+
+.topbar {
+overflow: hidden;
+border-top: 8px solid #e2e2e2;
+border-bottom: 1px solid #d1d1d1;
+       }
+
+.topbar h1{
+margin-top: 10px;
+font-size: 50px;
+font-family: Georgia Regular;
+color: grey;
+float:left;
+margin-left: 0px;
+right-bottom:0px;
+}
+	
+.topbar h2{
+margin-top: 28px;
+font-size: 30px;
+font-family:Georgia Regular;
+color: grey;
+float:left;
+margin-left: 0px;
+border-right: 2px solid grey;
+
+}
+.topbar ul{
+	float: right;	
+}
+
+.topbar li {
+display: inline;
+font-size: 20px;
+font-family:Felix Titling Regular;
+margin-top: 25px;
+float: left;
+margin-left: 5px;
+padding:0 5px;
+
+}
+.topbar li a {
+	text-decoration: none;
+	color: grey;
+}
+
+.text-info-wrapper p{
+  margin-top: 25px;
+  text-align: center;
+  font-size: 30px;
+  font-family:Castellar Regular;
+  color: black; 
+}
+
+.text-info-wrapper li {
+	margin-top: 0px;
+	text-align:center;
+	font-family: Copperplate Gothic Lig...;
+	font-size: 20px;
+	color: black;
+	color: #999;
+	display: block;
+}
+
+.img-info-wrapper{
+	margin-top: 36px;
+    text-align: center;
+    position: relative;
+      }
+.foto1{
+	border: 5px solid #57bae8;
+	background-color: #57bae8;
+	position: absolute;
+	bottom: 0px;
+	right: 310px;
+	color : white;
+}      
+
+
+
+
+
+
+
+
+
+
+.fundi {
+	margin-top: 70px;
+	background: #1f1e1e;
+    list-style: none;
+    border-bottom: 1px solid #080808;
+    overflow: hidden;
+}
+.fundi li div{
+	text-decoration: none;
+	display: inline;
+}
+.fundi h3{
+	display: white;
+}
+.infomajtas{
+	width: 225px;
+	overflow: hidden;
+	list-style: none;	
+	margin-top: -25px;
+}
+
+.infomajtas ul {
+
+	display: inline;
+	text-decoration: none;
+	color: white;
+}
+.infomajtas h5{
+    font-size:18px;
+    text-align: center;
+}
+.infomajtas p {
+	font-size:12px;
+	margin-left: 5px;
+	font-family: Sans-serif ; 
+}
+
+
+.qendermajtas {
+	width: 245px;
+	list-style-position: line;
+}
+.qendermajtas h3{
+	text-align: center;
+	line-height: 9px;
+	color: white;
+}
+.pjesa1{
+	overflow: hidden;
+    border-bottom: 1px solid black; 
+    
+}
+
+.pjesa1 img{
+	width: 48px;
+	height: 48px;
+}
+.pjesa1 p {
+	font-size:13.5px;
+	display: inline-block;
+    overflow: hidden;
+    margin-left:0px;
+    color: white;
+}
+.pjesa1 li {
+	list-style: none;
+	display: inline;
+	}
+
+.qenderdjathtas {
+	width: 200px;
+}
+.qenderdjathtas h3 {
+     text-align: center;
+     color: white;
+     line-height: 9px;
+}
+.tregtia li a   {
+	 text-decoration: none;
+	 display: inline-block;
+     color: #57bae8;
+     line-height: 35px;
+     width: 200px;
+	 border-bottom: 1px solid black;
+}
+
+.djathtas {
+	width: 225px;
+}
+.djathtas h3 {
+	color: white;
+	text-align: center;
+	line-height: 9px;
+}
+.input input {
+	width: 200px;
+	height: 32px;
+	margin-left: 10px;
+	box-sizing: border-box;
+	border: 2px solid white; 
+	border-radius: 9px;
+	background-color: white;
+	display: black;
+}
+.input2 input {
+	height: 115px;
+}
+.input3 input {
+    width: 78px;
+    height: 32px;
+    margin-left: 10px;
+    background: #57bae8;
+    border-radius: 9px ;
+    border: 3px solid #57bae8 ;
+}
+.bashkimi {
+	margin-left: 20px;
+	overflow: hidden;
+	margin-top: 20px;	
+	float: left;	
+	list-style:inline; 
+}
